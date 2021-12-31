@@ -1,9 +1,9 @@
 ## Oiii! eu sou a Mary
 
-<div align="left">
-  <a href="https://github.com/mariaSilv255">
-  <img height="180em" src="ttps://github-readme-stats.vercel.app/api?username=MariaSilv255&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSilv255&layout=compact&langs_count=7&theme=graywhite"/>
+<div align="center">
+  <a href="https://github.com/MariaSilv255">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaSilv255&show_icons=true&theme=gray&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSilv255&layout=compact&langs_count=7&theme=gray"/>
 </div>
 
  **Estudando**
