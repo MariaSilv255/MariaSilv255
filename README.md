@@ -1,4 +1,4 @@
-🖖 Olá, meu nome é Mary.Sou fullStack development.
+🖖 Olá, meu nome é Mary. Sou fullStack development.
 
 
 
