@@ -1,4 +1,6 @@
-## Oiii! eu sou a Mary
+🖖 Olá, meu nome é Mary.Sou fullStack development.
+
+
 
 <div align="center">
   <a href="https://github.com/MariaSilv255">
