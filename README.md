@@ -1,6 +1,6 @@
 ### Olá, Me chamo Mari!
 
-- 🌱 Atualmente estou aprendendo ReactJs e Node
+- 🌱 Atualmente estou aprendendo ReactJs
 - 👯 Estou procurando colaborar em projetos que facilitar a vida das pessoas
 - 📫 Como entrar em contato comigo: maria.info108@gmail.com
 - ⚡ Curiosidade: Gosto de animes e games
@@ -19,7 +19,6 @@
   <img align="center" alt="Mary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mary-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mary-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mary-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 
