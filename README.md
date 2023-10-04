@@ -1,7 +1,6 @@
 ### Olá, Me chamo Mari!
 
 - 🌱 Atualmente estou aprendendo ReactJs
-- 👯 Estou procurando colaborar em projetos que facilitar a vida das pessoas
 - 📫 Como entrar em contato comigo: maria.info108@gmail.com
 - ⚡ Curiosidade: Gosto de animes e games
 
