@@ -4,15 +4,13 @@
   <img src="https://github.com/user-attachments/assets/d31005ef-4f3b-4f15-9fb2-c745f0b6648d" alt="gato">
 </p>
 
-
-</p>
 ### [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞]
 
 🚀 Desenvolvedora Java e estudante de Sistemas para Internet. Apaixonada por tecnologia, estou sempre buscando aprimorar minhas habilidades para contribuir de forma significativa no desenvolvimento de soluções inovadoras. Comprometida com meu crescimento profissional, encaro desafios com entusiasmo e criatividade, aplicando os conhecimentos adquiridos para resolver problemas de forma eficiente.
 
 ### [𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤]
 
-🏆 • `HTML` • `CSS` • `SASS` • `JavaScript` • `Python` • `Git` • `Java` • `ReactJS` •
+🏆 • `HTML` • `CSS` • `SASS` • `JavaScript` • `Python` • `Django` • `Git` • `Java` • `ReactJS` • `BootStrap` •
 
 ### [𝐂𝐨𝐧𝐭𝐚𝐜𝐭]
 
