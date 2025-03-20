@@ -6,11 +6,11 @@
 
 ### [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞]
 
-🚀 Desenvolvedora Java e estudante de Sistemas para Internet. Apaixonada por tecnologia, estou sempre buscando aprimorar minhas habilidades para contribuir de forma significativa no desenvolvimento de soluções inovadoras. Comprometida com meu crescimento profissional, encaro desafios com entusiasmo e criatividade, aplicando os conhecimentos adquiridos para resolver problemas de forma eficiente.
+🚀 Desenvolvedora Java e estudante de Sistemas para Internet. Apaixonada por tecnologia, estou sempre buscando aprimorar minhas habilidades para resolver problemas de forma eficiente.
 
 ### [𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤]
 
-🏆 • `HTML` • `CSS` • `SASS` • `JavaScript` • `Python` • `Django` • `Git` • `Java` • `ReactJS` • `BootStrap` •
+🏆 • `HTML` • `CSS` • `SASS` • `JavaScript` • `Python` • `Django` • `Git` • `Java` • `BootStrap` • `Vue` •
 
 ### [𝐂𝐨𝐧𝐭𝐚𝐜𝐭]
 
