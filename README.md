@@ -4,20 +4,19 @@
   <img src="https://github.com/user-attachments/assets/d31005ef-4f3b-4f15-9fb2-c745f0b6648d" alt="gato">
 </p>
 
-### [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞]
+### [𝐀𝐛𝐨𝐮𝐭 𝐌𝐞]
 
 🚀 Desenvolvedora Java e estudante de Sistemas para Internet. Apaixonada por tecnologia, estou sempre buscando aprimorar minhas habilidades para resolver problemas de forma eficiente.
 
 ### [𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤]
 
-🏆 • `HTML` • `CSS` • `SASS` • `JavaScript` • `Python` • `Django` • `Git` • `Java` • `BootStrap` • `Vue` •
+🏆 • `Java` • `JDBC` • `Hibernate` • `JSP` • `Maven` • `MySQL` • `JUnit` •
 
 ### [𝐂𝐨𝐧𝐭𝐚𝐜𝐭]
 
-🖥️ • [`LinkedIn`](https://www.linkedin.com/in/maria-aparecida255/) •
+🖥️ • [`LinkedIn`](https://www.linkedin.com/in/maria-aparecida255/) • 
 
-<div style="display: flex; justify-content: center;">
-<a href="https://github.com/MariaSilv255">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSilv255&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaSilv255&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSilv255&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaSilv255&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
