@@ -8,9 +8,6 @@
 
 🚀 Desenvolvedora Java e estudante de Sistemas para Internet. Apaixonada por tecnologia, estou sempre buscando aprimorar minhas habilidades para resolver problemas de forma eficiente.
 
-### [𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤]
-
-🏆 • `Java` • `JDBC` • `Hibernate` • `JSP` • `Maven` • `MySQL` • `JUnit` •
 
 ### [𝐂𝐨𝐧𝐭𝐚𝐜𝐭]
 
